@@ -21,6 +21,7 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 ###Lista de versões
 
 * 5.0 Beta - *5.0.0.14811* - **24/12/2011**
+* 5.0 Released - *5.0.0.15522* - **12/03/2012**
 
 
 Detalhes da versão atual
@@ -28,11 +29,11 @@ Detalhes da versão atual
 
 Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiomas que cada versão tem. Ao lado de cada idioma da lista é informado se é original do CCS ou foi traduzida.
 
-###5.0 Beta
+###5.0 Released
 
-* Nome arquivo instalação: CCS_5.0.0.14811.exe
-* Versão: 5.0.0.14811
-* Data lançamento: 24/12/2011
+* Nome arquivo instalação: CCS_5.0.0.15522.exe
+* Versão: 5.0.0.15522
+* Data lançamento: 12/03/2012
 
 ######Lista de idiomas - *IDE*
 - Alemão
