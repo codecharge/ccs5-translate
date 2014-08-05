@@ -1,4 +1,7 @@
 <stringTable>
+  <key name="DD_OK_BUTTON">Ok</key>
+  <key name="DD_CANCEL_BUTTON">Cancel</key>
+  
   <key name="DATA_DICTIONARY">Data Dictionary</key>
   <key name="FORM_CAPTION">Data Dictionary</key>
 
@@ -139,9 +142,10 @@
   <key name="RELATIONSHIPS_HIDE_TABLES">Hide Tables</key>
 
   <key name="ALERT_CAPTION">Error</key>
-  <key name="ALERT_EMPTY_LABEL">Empty name</key>
+  <key name="ALERT_QUERY_EXIST_CAPTION">Query exists</key>
+  <key name="ALERT_EMPTY_LABEL">Invalid format for the Query name.&#10;It can contain only alphanumeric and underscore characters&#10;and can start only with a letter.</key>
   <key name="ALERT_NAME_EXISTS">Specifyed name already exists</key>
-  <key name="ALERT_INVALID_NAME">Invalid name was specifyed</key>
+  <key name="ALERT_INVALID_NAME">Invalid format for the Query name.&#10;It can contain only alphanumeric and underscore characters&#10;and can start only with a letter.</key>
 
   <key name="ALERT_PREVIOUS_ENTRY_NAME_WAS_NOT_SET">Name field was not pecifyed for previous entry.</key>
   <key name="ALERT_WOULD_YOU_LIKE_TO_REMOVE_DD_FILE_TOO">Do you want to remove Data Dictionary file for '%1' connection?</key>
@@ -221,5 +225,7 @@
   <key name="PROPERTIES_CAPTION_IN_GRID_dddescription">Display Caption</key>
   <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolsize">Input HTML Size</key>
   <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolmaxlength">Input Max Size</key>
+
+  <key name="DIALOG_ADD_QUERY_CAPTION">Create Query</key>
 
 </stringTable>
