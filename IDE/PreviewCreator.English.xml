@@ -1,0 +1,16 @@
+<stringTable>
+	<key name="MESSAGE_COMPONENT_NOT_FOUND_ON_ITS_POSITION">%1 component '%2' was not found.</key>
+	<key name="MESSAGE_SCRIPT_FILE_NOT_FOUND">Script file '%1' was not found.</key>
+	<key name="MESSAGE_COMPONENT_NOT_FOUND">%1 component '%2' was not found.</key>
+	<key name="MESSAGE_UNABLE_TO_OPEN_CONNECTION">Unable to Open Connection '%1'.</key>
+	<key name="MESSAGE_ERROR_OPEN_CONNECTION">Error occured while trying to Open Connection '%1'.</key>
+	<key name="MESSAGE_MASTER_PAGE_WAS_NOT_FOUND">Master Page '%1' was not found for '%2' component.</key>
+	<key name="MESSAGE_MASTER_PAGE_WAS_NOT_FOUND_FOR_PAGE">Master Page '%1' was not found for '%2' page.</key>
+	<key name="MESSAGE_MASTER_PAGE_LOADING_ERROR">Error occured while loading '%1' Master Page for '%2' component.</key>
+	<key name="MESSAGE_MASTER_PAGE_LOADING_ERROR_FOR_PAGE">Error occured while loading '%1' Master Page for '%2' page.</key>
+	<key name="MESSAGE_MASTER_PAGE_INVALID_PATH_PAGE_REFFERS_TO_ITSELF">Invalid path to Master Page. Master Page property for '%1' '%2' reffers to page that it contains.</key>
+	<key name="MESSAGE_UNABLE_TO_RECEIVE_DATA">Unable to receive data for '%1' connection :: %2.</key>
+	<key name="MESSAGE_INCLUDABLE_PAGE_WAS_NOT_FOUND">Includable Page '%1' was not found for '%2' component.</key>
+	<key name="MESSAGE_INCLUDABLE_PAGE_LOADING_ERROR">Error occured while loading '%1' Includable Page for '%2' component.</key>
+	<key name="MESSAGE_UNABLE_TO_CONVERT_BASE_VALUE">Unable to convert value. Possible type mismatch.</key>
+</stringTable>

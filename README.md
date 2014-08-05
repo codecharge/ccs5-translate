@@ -12,6 +12,8 @@ CCS5 Tradução
 
 Tradução da IDE e sistema gerado pelo CodeCharge Studio 5.
 
+Site oficial com novidades e atualizações do software: http://support.yessoftware.com/updates.asp
+
 ###Versionamento
 
 O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studio. Quando for liberado uma nova versão do software, será liberado uma nova versão da tradução.
@@ -19,29 +21,65 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 ###Lista de versões
 
 * 5.0 Beta - 24/12/2011
-* 5.0 Released - 12/03/2012
-* 5.0 Update Available (5.0.0.15750) - 04/04/2012
-* 5.0 Update Available (5.0.0.16254) - 06/06/2012
-* 5.1 Release Preview (5.1.0.18470) - 24/07/2013
-* 5.1 Released - 19/08/2013
-* 5.1 Update Available (5.1.0.18696) - 26/09/2013
-* 5.1 Update Available (5.1.1.18990) - 29/10/2013
+
 
 Detalhes de cada versão
 ==============
 
 Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiomas que cada versão tem. Ao lado de cada idioma da lista é informado se é original do CCS ou foi traduzida.
 
-###5.1 Update Available (5.1.1.18990)
+###5.0 Beta
 
-* Nome arquivo instalação: CCS_5.1.1.18990.exe
-* Data lançamento: 29/10/2013
+* Nome arquivo instalação: CCS_5.0.0.14811.exe
+* Versão: 5.0.0.14811
+* Data lançamento: 24/12/2011
 
-######Lista de idiomas
-* Alemão (Original CCS)
-* Chinês (Original CCS)
-* Francês (Original CCS)
-* Húngaro (Original CCS)
-* Inglês (Original CCS)
-* Polonês (Original CCS)
-* Português
+######Lista de idiomas IDE
+- Alemão
+    - Deutsch.ico
+    - Deutsch.txt
+- Chinês
+    - Chinese.ico
+    - Chinese.txt
+- Espanhol
+    - Espanol.ico
+    - Espanol.txt
+- Francês
+    - Francais.ico
+    - Francais.txt
+- Húngaro
+    - Magyar.ico
+    - Magyar.txt
+- Inglês
+    - English.ico
+    - English.txt
+    - DataDictionary.English.xml
+    - PreviewCreator.English.xml
+    - ToolkitPro.English.xml
+- Polonês
+    - Polski.ico
+    - Polski.txt
+
+######Lista de idiomas Site
+- Alemão
+    - de.txt
+- Chinês
+    - zh.txt
+- Espanhol
+    - es.txt
+- Francês
+    - fr.txt
+- Holandês
+    - hl.txt
+- Húngaro
+    - hu.txt
+- Inglês
+    - en.txt
+- Japonês
+    - ja.txt
+- Polonês
+    - pl.txt
+- Russo
+    - ru.txt
+- Sueco
+    - sv.txt

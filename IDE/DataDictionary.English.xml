@@ -1,0 +1,225 @@
+<stringTable>
+  <key name="DATA_DICTIONARY">Data Dictionary</key>
+  <key name="FORM_CAPTION">Data Dictionary</key>
+
+  <key name="DATA_DICTIONARY_FILE_TYPE_FILTER">Data Dictionary architecture files (*.xml)|*.xml</key>
+
+  <key name="MENU_FILE">&amp;File</key>
+  <key name="MENU_FILE_OPEN">&amp;Open</key>
+  <key name="MENU_FILE_EXIT">&amp;Exit</key>
+  <key name="MENU_FILE_SAVE">&amp;Save</key>
+  <key name="MENU_FILE_SAVE_AS">Save &amp;As...</key>
+
+  <key name="MENU_FILE_NEW">&amp;New</key>
+
+  <key name="MENU_INSERT">&amp;Insert</key>
+  <key name="MENU_INSERT_ADD_TABLE">&amp;Add New Table</key>
+  <key name="MENU_PRIMARY_KEY">&amp;Is Primary Key</key>
+
+  <key name="PROPERTIES_CAPTION_name">Database Column</key>
+  <key name="PROPERTIES_CAPTION_ddtype">Data Type</key>
+  <key name="PROPERTIES_CAPTION_ddcaption">Caption</key>
+  <key name="PROPERTIES_CAPTION_display_defaultvalue">Default Value</key>
+  <key name="PROPERTIES_CAPTION_ddvalidationrule">Validation Rule</key>
+  <key name="PROPERTIES_DESCRIPTION_ddvalidationrule">Expression to be used to determine data validity.</key>
+  <key name="PROPERTIES_CAPTION_ddvalidationtext">Validation Text</key>
+  <key name="PROPERTIES_DESCRIPTION_ddvalidationtext"></key>
+  <key name="PROPERTIES_CAPTION_ddisrequired">Is Required</key>
+  <key name="PROPERTIES_DESCRIPTION_ddisrequired"></key>
+  <key name="PROPERTIES_CAPTION_ddunique">Unique</key>
+  <key name="PROPERTIES_DESCRIPTION_ddunique"></key>
+  <key name="PROPERTIES_CAPTION_ddinputmask">Input Mask</key>
+  <key name="PROPERTIES_DESCRIPTION_ddinputmask"></key>
+  <key name="PROPERTIES_CAPTION_dddisplaycontrol">Display Control</key>
+  <key name="PROPERTIES_DESCRIPTION_dddisplaycontrol">Type of control</key>
+  <key name="PROPERTIES_CAPTION_ddeditcontrol">Input Control</key>
+  <key name="PROPERTIES_DESCRIPTION_ddeditcontrol"></key>
+  <key name="PROPERTIES_CAPTION_ddsize">Column Size</key>
+  <key name="PROPERTIES_DESCRIPTION_ddsize"></key>
+  <key name="PROPERTIES_CAPTION_dddescription">Caption</key>
+  <key name="PROPERTIES_DESCRIPTION_dddescription"></key>
+  <key name="PROPERTIES_CAPTION_ddprimarykey">Key</key>
+  <key name="PROPERTIES_DESCRIPTION_ddprimarykey"></key>
+  <key name="PROPERTIES_CAPTION_ddinputevents">Events</key>
+  <key name="PROPERTIES_DESCRIPTION_ddinputevents">Events are designated points that occur during the process of code execution. It is possible to add Actions or custom code that will be executed at the point in the code where the event occurs.</key>
+  <key name="PROPERTIES_CAPTION_dddisplayevents">Events</key>
+  <key name="PROPERTIES_DESCRIPTION_dddisplayevents">Events are designated points that occur during the process of code execution. It is possible to add Actions or custom code that will be executed at the point in the code where the event occurs.</key>
+  <key name="PROPERTIES_CAPTION_ddinputvisible">Visible</key>
+  <key name="PROPERTIES_DESCRIPTION_ddinputvisible">Specifies whether the control is visible.</key>
+  <key name="PROPERTIES_CAPTION_dddisplayvisible">Visible</key>
+  <key name="PROPERTIES_DESCRIPTION_dddisplayvisible">Specifies whether the control is visible.</key>
+  <key name="PROPERTIES_CAPTION_ddcontrolsize">Control size</key>
+  <key name="PROPERTIES_DESCRIPTION_ddcontrolsize">Sets or retrieves the size of the control.</key>
+  <key name="PROPERTIES_CAPTION_ddcontrolmaxlength">Max Length</key>
+  <key name="PROPERTIES_DESCRIPTION_ddcontrolmaxlength">Sets or retrieves the maximum number of characters that the user can enter into a text control.</key>
+
+
+  <key name="PROPERTIES_DESCRIPTION_display_defaultvalue">Default value assigned to this control for new records. E.g. 1, "Bob", Now()</key>
+  <key name="PROPERTIES_DESCRIPTION_display_format">Display format of control value.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_html">HTML - outputs content as-is without conversion to text. Text - converts text content to HTML.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_dbformat">Control value data format to be used in SQL statements.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_hreftype">
+    Specify the type of <b>Href Source</b>.
+  </key>
+  <key name="PROPERTIES_DESCRIPTION_display_hrefsource">Page path, database field or custom expression containing the URL value of the hyperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_urltype">Specify if the URL should be converted to different format.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_removeparameters">Semicolon-separated list of parameters is removed from hyperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_preserveparameters">Specify if POST, GET or all parameters are preserved from HTTP request.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_caption"></key>
+  <key name="PROPERTIES_DESCRIPTION_input_format">Display format of control value.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_defaultvalue">Default value assigned to this control for new records. E.g. 1, "Bob", Now()</key>
+  <key name="PROPERTIES_DESCRIPTION_input_required">Specify if the field's value is required.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_unique">Specify if the value is not accepted if already in the database.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_inputmask">Regular expression pattern for validating data entry.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_validationrule">Expression to be used to determine data validity.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_validationtext">Message displayed when data doesn't satisfy Validation Rule.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_dbformat">Control value data format to be used in SQL statements.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_datasource">Select one of the project database connection names.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_boundcolumn">Name of the data source field that contains the value to be submitted.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_textcolumn">Name of the data source field that contains the value to be displayed.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_checkedvalue">The value when checkbox is checked.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_uncheckedvalue">The value when checkbox is unchecked.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_html">HTML - outputs content as-is without conversion to text. Text - converts text content to HTML.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_hreftype">
+    Specify the type of <b>Href Source</b>.
+  </key>
+  <key name="PROPERTIES_DESCRIPTION_input_hrefsource">Page path, database field or custom expression containing the URL value of the hyperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_urltype">Specify if the URL should be converted to different format.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_removeparameters">Semicolon-separated list of parameters is removed from hyperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_preserveparameters">Specify if POST, GET or all parameters are preserved from HTTP request.</key>
+
+
+  <key name="NO_SELECTED_CONNECTION">No connections</key>
+
+
+  <key name="TABLE_PROPERTIES_TAB_CAPTION">Table</key>
+  <key name="GENERAL_PROPERTIES_TAB_CAPTION">General</key>
+  <key name="DISPLAY_PROPERTIES_TAB_CAPTION">Display</key>
+  <key name="INPUT_PROPERTIES_TAB_CAPTION">Input</key>
+  <key name="EVENT_PROPERTIES_TAB_CAPTION">Events</key>
+
+  <key name="DISPLAY_TABLE_CAPTION">Form Title (Display)</key>
+  <key name="INPUT_TABLE_CAPTION">Form Title (Input)</key>
+
+  <key name="PROPERTIES_CAPTION_grid_caption">Form Title (Display)</key>
+  <key name="PROPERTIES_CAPTION_record_caption">Form Title (Input)</key>
+  <key name="PROPERTIES_CAPTION_ddcustominsert">Custom Insert</key>
+  <key name="PROPERTIES_CAPTION_ddcustomdelete">Custom Delete</key>
+  <key name="PROPERTIES_CAPTION_ddcustomupdate">Custom Update</key>
+  <key name="PROPERTIES_CAPTION_ddtableevents_grid">Grid Events</key>
+  <key name="PROPERTIES_CAPTION_ddtableevents_report">Report Events</key>
+  <key name="PROPERTIES_CAPTION_ddtableevents_record">Record Form Events</key>
+
+  <key name="TABLE_DEFAULT_CAPTION">Table%1</key>
+  <key name="FIELD_DEFAULT_NAME">Field%1</key>
+  <key name="QUERY_DEFAULT_CAPTION">Query%1</key>
+  <key name="FIELD_COUNTER">ID</key>
+
+
+  <key name="BASE_WAS_NOT_SAVED">Data in current file was changed. Do you want to save the changes?</key>
+  <key name="BASE_WAS_NOT_SAVED_CAPTION">Data Dictionary</key>
+  <key name="MENU_TREE_ADD_ENTRY">&amp;Add New Table</key>
+  <key name="MENU_TREE_REMOVE_TABLE">&amp;Remove</key>
+  <key name="MENU_TREE_OPEN">&amp;Open</key>
+  <key name="MENU_TREE_RENAME">&amp;Rename</key>
+  <key name="MENU_TREE_PROPERTIES">&amp;Properties</key>
+  <key name="MENU_TREE_RENAME_ROOT">&amp;Rename</key>
+  <key name="MENU_TREE_ROOT_PROPERTIES">&amp;Properties</key>
+  <key name="MENU_TREE_OPEN_QUERY">&amp;Open</key>
+  <key name="MENU_TREE_RENAME_QUERY">&amp;Rename</key>
+  <key name="MENU_TREE_DELETE_QUERY">&amp;Delete</key>
+  <key name="MENU_TREE_ADD_QUERY">&amp;Create Query</key>
+  <key name="MENU_RESET_DATA_DICTIONARY">Reset dictionary for '{0}'</key>
+
+  <key name="DATA_SCHEME_FORM_CAPTION">Relationships</key>
+  <key name="VQB_CONTAINER_FORM_CAPTION">VQB</key>
+  <key name="LEFT_TABLE">Table</key>
+  <key name="RIGHT_LINKED_TABLE">Linked Table</key>
+  <key name="RELATIONSHIPS_HIDE_TABLE">Hide Table</key>
+  <key name="RELATIONSHIPS_HIDE_TABLES">Hide Tables</key>
+
+  <key name="ALERT_CAPTION">Error</key>
+  <key name="ALERT_EMPTY_LABEL">Empty name</key>
+  <key name="ALERT_NAME_EXISTS">Specifyed name already exists</key>
+  <key name="ALERT_INVALID_NAME">Invalid name was specifyed</key>
+
+  <key name="ALERT_PREVIOUS_ENTRY_NAME_WAS_NOT_SET">Name field was not pecifyed for previous entry.</key>
+  <key name="ALERT_WOULD_YOU_LIKE_TO_REMOVE_DD_FILE_TOO">Do you want to remove Data Dictionary file for '%1' connection?</key>
+  <key name="ALERT_REMOVING_CONFIRMATION">Data Dictionary</key>
+  <key name="ALERT_INVALID_DD_FILE">Error while loading '%1' file: invalid Data Dictionary file.</key>
+  <key name="ALERT_INVALID_DD_FILE_CAPTION">Data Dictionary Error</key>
+  <key name="ALERT_FAILED_TO_USE_DD_FILE_DD_BACKUP">Failed to use existing DD file. It backupped to: '%1'</key>
+  <key name="ALERT_FAILED_TO_USE_DD_FILE_DD_BACKUP_CAPTION">Data Dictionary</key>
+
+  <key name="ALERT_WOULD_YOU_LIKE_TO_SAVE_DD_FILE_BEFORE_CLOSING">Do you want to save '%1' file before closing?</key>
+  <key name="ALERT_CLOSING_CONFIRMATION">Data Dictionary</key>
+  <key name="SEARCH_CAPTION_NAME">name</key>
+
+  <key name="GROUP_CAPTION_TABLE">Tables</key>
+  <key name="GROUP_CAPTION_VIEW">Views</key>
+  <key name="GROUP_CAPTION_SYSTEM">System Tables</key>
+  <key name="GROUP_CAPTION_SYSTEM_TABLE">System Tables</key>
+  <key name="GROUP_CAPTION_SYSTEM_VIEW">System Views</key>
+  <key name="GROUP_CAPTION_QUERY">Queries</key>
+
+  <key name="TAB_CAPTION_VQB">Design</key>
+  <key name="TAB_CAPTION_DATA_DICTIONARY">Dictionary</key>
+  <key name="TAB_CAPTION_SQL">SQL</key>
+  <key name="TAB_CAPTION_DATA">View Data</key>
+
+  <key name="OPEN_PAGE_FILE_DLG_CAPTION">Select Page</key>
+  <key name="ALERT_INVALID_FILE_WAS_SELECTED">File '%1' is not located in the project folder.</key>
+  <key name="ALERT_INVALID_FILE_WAS_SELECTED_CAPTION">Invalid Page File</key>
+  <key name="OPEN_PAGE_FILE_MASK">CodeCharge Page (*.ccp)|*.ccp||</key>
+
+  <key name="CLIENT_NODE_CAPTION">Client</key>
+  <key name="SERVER_NODE_CAPTION">Server</key>
+  <key name="INPUT_CONTROL_NODE_CAPTION">Input: %1</key>
+  <key name="DISPLAY_CONTROL_NODE_CAPTION">Display: %1</key>
+
+  <key name="CM_ADD_ACTION">Add Action</key>
+  <key name="CM_REMOVE_ACTION">Remove Action</key>
+
+  <key name="(not assigned)"> </key>
+  <key name="(assigned)">(assigned)</key>
+
+  <key name="EVENTS_CONFIG_DIALOG_ddinputevents_caption">%1 - Input Control Events</key>
+  <key name="EVENTS_CONFIG_DIALOG_dddisplayevents_caption">%1 - Display Control Events</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_caption">Table Events</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_grid_caption">Grid - Form Control Events</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_record_caption">Record - Form Control Events</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_report_caption">Report - Form Control Events</key>
+  <key name="REPORT_CONTROL_THERE_ARE_NO_ITEMS_TO_SHOW">There are no items to show.</key>
+  <key name="REPORT_CONTROL_LOADING">Loading items...</key>
+  <key name="EVENTS_CONFIG_DIALOG_HELP_BUTTON">&amp;Help</key>
+  <key name="EVENTS_CONFIG_DIALOG_OK_BUTTON">&amp;Ok</key>
+  <key name="EVENTS_CONFIG_DIALOG_CANCEL_BUTTON">&amp;Cancel</key>
+  <key name="EVENTS_CONFIG_DIALOG_CLEAN_ACTIONS_LIST_QUESTION">Control contains hidden actions. Would you like to remove them?</key>
+  <key name="EVENTS_CONFIG_DIALOG_CLEAN_ACTIONS_LIST_CAPTION">Clear Actions List Confirmation</key>
+
+  <key name="EVENTS_TOOLBAR_ADD_ACTION">Add...</key>
+  <key name="EVENTS_TOOLBAR_DELETE_ACTION">Delete</key>
+  <key name="EVENTS_TOOLBAR_MOVE_UP_ACTION">Move Up</key>
+  <key name="EVENTS_TOOLBAR_MOVE_DOWN_ACTION">Move Down</key>
+  <key name="EVENTS_TOOLBAR_ADD_ACTION_DESCRIPTION">Add...</key>
+  <key name="EVENTS_TOOLBAR_DELETE_ACTION_DESCRIPTION">Delete</key>
+  <key name="EVENTS_TOOLBAR_MOVE_UP_ACTION_DESCRIPTION">Move Up</key>
+  <key name="EVENTS_TOOLBAR_MOVE_DOWN_ACTION_DESCRIPTION">Move Down</key>
+
+  <key name="MERGE_DIALOG_CAPTION">Merge Tables</key>
+  <key name="MERGE_OLD_PANEL_CAPTION">Old Tables</key>
+  <key name="MERGE_NEW_PANEL_CAPTION">New Tables</key>
+  <key name="MERGE_INSTRUCTION">Select old table from list on right side and new table on left side and press Assosiate button.</key>
+  <key name="MERGE_ASSOCIATE_BUTTON">Associate</key>
+  <key name="MERGE_RESET_BUTTON">Reset</key>
+  <key name="MERGE_OK_BUTTON">Ok</key>
+
+  <key name="TABLE_PROPERTIES_CAPTION">Table properties</key>
+  <key name="FIELD_PROPERTIES_CAPTION">Columns properties</key>
+
+  <key name="PROPERTIES_CAPTION_IN_GRID_input_caption">Input Caption</key>
+  <key name="PROPERTIES_CAPTION_IN_GRID_dddescription">Display Caption</key>
+  <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolsize">Input HTML Size</key>
+  <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolmaxlength">Input Max Size</key>
+
+</stringTable>
