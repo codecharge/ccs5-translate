@@ -2662,7 +2662,8 @@ IDE_TB_Vss_Bar=Source Control
 IDE_TB_VSS_BAR=Source Control
 IDE_TB_Web_Bar=Web Bar
 IDE_UPDATE_ERR=Unable to connect to the www.codecharge.com server.\nError code: %d\n%s\n\nPlease check your proxy server settings or toggle the Check for updates on launch checkbox on the Options settings page.
-IDE_URL_CCSVERINFO=http://support.yessoftware.com/updatesccs5.asp
+IDE_URL_CCSVERINFO=http://www.yessoftware.com/studio/update/ccsverinfo.txt
+IDE_URL_UPDATE=http://support.yessoftware.com/updates.asp
 IDE_URL_DOCUMENTS_TUTORIALS=http://www.codecharge.com/studio/panel/?s=docs&v=
 IDE_URL_FAQ_KNOWLEDGE_BASE=http://www.codecharge.com/studio/panel/?s=faq&v=
 IDE_URL_SUBMIT_SUPPORT_REQUEST=http://www.codecharge.com/studio/panel/?s=support&sn=%s&v=%s
