@@ -34,7 +34,7 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
 * Versão: 5.0.0.14811
 * Data lançamento: 24/12/2011
 
-######Lista de idiomas IDE
+######Lista de idiomas - *IDE*
 - Alemão
     - Deutsch.ico
     - Deutsch.txt
@@ -60,7 +60,7 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
     - Polski.ico
     - Polski.txt
 
-######Lista de idiomas Site
+######Lista de idiomas - *Site*
 - Alemão - de.txt
 - Chinês - zh.txt
 - Espanhol - es.txt
