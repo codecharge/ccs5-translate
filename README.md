@@ -61,14 +61,14 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
     - Polski.txt
 
 ######Lista de idiomas Site
-- Alemão - **de.txt**
-- Chinês - **zh.txt**
-- Espanhol - **es.txt**
-- Francês - **fr.txt**
-- Holandês - **hl.txt**
-- Húngaro - **hu.txt**
-- Inglês - **en.txt**
-- Japonês - **ja.txt**
-- Polonês - **pl.txt**
-- Russo - **ru.txt**
-- Sueco - **sv.txt**
+- Alemão - de.txt
+- Chinês - zh.txt
+- Espanhol - es.txt
+- Francês - fr.txt
+- Holandês - hl.txt
+- Húngaro - hu.txt
+- Inglês - en.txt
+- Japonês - ja.txt
+- Polonês - pl.txt
+- Russo - ru.txt
+- Sueco - sv.txt
