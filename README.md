@@ -30,6 +30,8 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 Detalhes de cada versão
 ==============
 
+Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiomas que cada versão tem. Ao lado de cada idioma da lista é informado se é original do CCS ou foi traduzida.
+
 ###5.1 Update Available (5.1.1.18990)
 
 * Nome arquivo instalação: CCS_5.1.1.18990.exe
