@@ -16,13 +16,23 @@ Tradução da IDE e sistema gerado pelo CodeCharge Studio 5.
 
 O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studio. Quando for liberado uma nova versão do software, será liberado uma nova versão da tradução.
 
-###Lista de versões:
+###Lista de versões
 
 * 5.0 Beta - 24/12/2011
 * 5.0 Released - 12/03/2012
-* 5.0 Update Available (5.0.0.15750) - 04/04/2012 
+* 5.0 Update Available (5.0.0.15750) - 04/04/2012
 * 5.0 Update Available (5.0.0.16254) - 06/06/2012
 * 5.1 Release Preview (5.1.0.18470) - 24/07/2013
 * 5.1 Released - 19/08/2013
 * 5.1 Update Available (5.1.0.18696) - 26/09/2013
 * 5.1 Update Available (5.1.1.18990) - 29/10/2013
+
+###Detalhes de cada versão
+
+
+
+##5.1 Update Available (5.1.1.18990)
+
+- Nome arquivo instalação: CCS_5.1.1.18990.exe
+
+#Lista de idiomas
