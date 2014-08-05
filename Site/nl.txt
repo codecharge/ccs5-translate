@@ -32,6 +32,7 @@ CCS_Delete=Verwijder
 CCS_Cancel=Annuleren
 CCS_Search=Zoek
 CCS_NoRecords=Geen gegevens
+CCS_Now=Nou
 CCS_First=Eerste
 CCS_Previous=Vorige
 CCS_Next=Volgende

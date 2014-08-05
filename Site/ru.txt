@@ -52,6 +52,7 @@ CCS_More=Далее...
 CCS_Next=Следующая
 CCS_NoCategories=Категории не найдены
 CCS_NoRecords=Нет записей
+CCS_Now=Сейчас
 CCS_Of=из
 CCS_OperationError=Невозможно выполнить операцию {0}. Один или более параметров не заданы.
 CCS_Password=Пароль

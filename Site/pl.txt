@@ -23,6 +23,7 @@ CCS_Delete=Skasuj
 CCS_Cancel=Anuluj
 CCS_Search=Szukaj
 CCS_NoRecords=Brak danych
+CCS_Now=Teraz
 CCS_First=Pierwszy
 CCS_Previous=Poprzedni
 CCS_Next=Następny

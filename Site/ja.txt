@@ -66,6 +66,7 @@ CCS_DeleteConfirmation=レコードを削除しますか?
 CCS_SubmitConfirmation=レコードを送信しますか?
 CCS_Clear=クリア
 CCS_NoCategories=カテゴリが見つかりませんでした。
+CCS_Now=今や
 CCS_Main=メイン
 CCS_More=詳細...
 CCS_Today=今日

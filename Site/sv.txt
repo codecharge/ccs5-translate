@@ -71,6 +71,7 @@ CCS_DeleteConfirmation=Ta bort denna?
 CCS_SubmitConfirmation=Skicka records?
 CCS_Clear=Rensa
 CCS_NoCategories=Inga kategorier funna
+CCS_Now=Nu
 CCS_Main=Huvud
 CCS_More=Mer...
 CCS_Today=Idag

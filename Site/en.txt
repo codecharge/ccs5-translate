@@ -38,6 +38,7 @@ CCS_Cancel=Cancel
 CCS_Search=Search
 CCS_NoRecords=No records
 CCS_NoEvents=No events
+CCS_Now=Now
 CCS_First=First
 CCS_Previous=Prev
 CCS_Next=Next

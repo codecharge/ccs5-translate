@@ -71,6 +71,7 @@ CCS_DeleteConfirmation=Törli a rekordot?
 CCS_SubmitConfirmation=Elküldi a rekordokat?
 CCS_Clear=Törlés
 CCS_NoCategories=Nem találhatók kategóriák
+CCS_Now=Most
 CCS_Main=Fő
 CCS_More=Tovább...
 CCS_Today=Ma

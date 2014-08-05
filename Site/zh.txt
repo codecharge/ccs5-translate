@@ -69,6 +69,7 @@ CCS_DeleteConfirmation=刪除紀錄?
 CCS_SubmitConfirmation=提交紀錄?
 CCS_Clear=清除
 CCS_NoCategories=找不到目錄
+CCS_Now=現在
 CCS_Main=主要
 CCS_More=更多...
 CCS_Today=今日

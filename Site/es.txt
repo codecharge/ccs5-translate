@@ -61,6 +61,7 @@ CCS_NextThreeMonthsHint=Siguentes tres meses
 CCS_NextYearHint=Siguiente año
 CCS_NoCategories=Categorias no encontradas
 CCS_NoRecords=No hay registros
+CCS_Now=Ahora
 CCS_Of=de
 CCS_OperationError=No se puede llevar a cabo esta {0} operacion. Uno o mas parametros no han sido especificados.
 CCS_Password=Password

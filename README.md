@@ -24,7 +24,7 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 * 5.0 Released - *5.0.0.15522* - **12/03/2012**
 * 5.0 Update Available - *5.0.0.15750* - **04/04/2012**
 * 5.0 Update Available - *5.0.0.16254* - **06/06/2012**
-
+* 5.1 Release Preview - *5.1.0.18470* - **24/07/2013**
 
 Detalhes da versão atual
 ==============
@@ -33,26 +33,31 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
 
 ###5.0 Released
 
-* Nome arquivo instalação: CCS_5.0.0.16254.exe
-* Versão: 5.0.0.16254
-* Data lançamento: 06/06/2012
+* Nome arquivo instalação: CCS_5.1.0.18470.exe
+* Versão: 5.1.0.18470
+* Data lançamento: 24/07/2013
 
 ######Lista de idiomas - *IDE*
 - Alemão
     - Deutsch.ico
     - Deutsch.txt
+    - DataDictionary.Deutsch.xml
 - Chinês
     - Chinese.ico
     - Chinese.txt
+    - DataDictionary.Chinese.xml
 - Espanhol
     - Espanol.ico
     - Espanol.txt
+    - DataDictionary.Espanol.xml
 - Francês
     - Francais.ico
     - Francais.txt
+    - DataDictionary.Francais.xml
 - Húngaro
     - Magyar.ico
     - Magyar.txt
+    - DataDictionary.Magyar.xml
 - Inglês
     - English.ico
     - English.txt
@@ -62,6 +67,7 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
 - Polonês
     - Polski.ico
     - Polski.txt
+    - DataDictionary.Polski.xml
 
 ######Lista de idiomas - *Site*
 - Alemão - de.txt
