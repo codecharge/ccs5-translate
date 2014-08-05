@@ -36,7 +36,7 @@ Detalhes de cada versão
 * Data lançamento: 29/10/2013
 
 ######Lista de idiomas
-* Alemão - - (Original CCS)
+* Alemão (Original CCS)
 * Chinês (Original CCS)
 * Francês (Original CCS)
 * Húngaro (Original CCS)
