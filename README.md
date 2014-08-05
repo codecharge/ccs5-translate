@@ -71,6 +71,12 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
     - Polski.ico
     - Polski.txt
     - DataDictionary.Polski.xml
+- Português - Não original
+    - Portuguese.ico
+    - Portuguese.txt
+    - DataDictionary.Portuguese.xml
+    - PreviewCreator.Portuguese.xml
+    - ToolkitPro.Portuguese.xml
 
 ######Lista de idiomas - *Site*
 - Alemão - de.txt
@@ -82,5 +88,6 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
 - Inglês - en.txt
 - Japonês - ja.txt
 - Polonês - pl.txt
+- Português - pt.txt
 - Russo - ru.txt
 - Sueco - sv.txt
