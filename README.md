@@ -25,6 +25,8 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 * 5.0 Update Available - *5.0.0.15750* - **04/04/2012**
 * 5.0 Update Available - *5.0.0.16254* - **06/06/2012**
 * 5.1 Release Preview - *5.1.0.18470* - **24/07/2013**
+* 5.1 Released - **19/08/2013** *(Arquivos da versão não disponíveis)*
+* 5.1 Update Available - *5.1.0.18696* - **26/09/2013**
 
 Detalhes da versão atual
 ==============
@@ -33,9 +35,9 @@ Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiom
 
 ###5.0 Released
 
-* Nome arquivo instalação: CCS_5.1.0.18470.exe
-* Versão: 5.1.0.18470
-* Data lançamento: 24/07/2013
+* Nome arquivo instalação: CCS_5.1.0.18696.exe
+* Versão: 5.1.0.18696
+* Data lançamento: 26/09/2013
 
 ######Lista de idiomas - *IDE*
 - Alemão

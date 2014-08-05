@@ -136,7 +136,8 @@
   <key name="MENU_RESET_DATA_DICTIONARY">Reset dictionary for '{0}'</key>
   <key name="MENU_REMOVE_FIELD">Remove Field</key>
   <key name="MENU_IS_PRIMARY_KEY">Is Primary Key</key>
-       
+  <key name="MENU_APPLY_DATASOURCE">Apply to DataSource</key>     
+  
   <key name="DATA_SCHEME_FORM_CAPTION">Relationships</key>
   <key name="VQB_CONTAINER_FORM_CAPTION">VQB</key>
   <key name="LEFT_TABLE">Table</key>
