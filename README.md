@@ -27,15 +27,19 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 * 5.1 Update Available (5.1.0.18696) - 26/09/2013
 * 5.1 Update Available (5.1.1.18990) - 29/10/2013
 
-###Detalhes de cada versão
-
-
-
-#####5.1 Update Available (5.1.1.18990)
+Detalhes de cada versão
 ==============
 
-1. Nome arquivo instalação: CCS_5.1.1.18990.exe
+###5.1 Update Available (5.1.1.18990)
 
+* Nome arquivo instalação: CCS_5.1.1.18990.exe
+* Data lançamento: 29/10/2013
 
-2. Lista de idiomas
---* Chinês (Original CCS)
+######Lista de idiomas
+* Alemão - - (Original CCS)
+* Chinês (Original CCS)
+* Francês (Original CCS)
+* Húngaro (Original CCS)
+* Inglês (Original CCS)
+* Polonês (Original CCS)
+* Português
