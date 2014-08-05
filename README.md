@@ -31,8 +31,8 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 
 
 
-##5.1 Update Available (5.1.1.18990)
+####5.1 Update Available (5.1.1.18990)
 
 - Nome arquivo instalação: CCS_5.1.1.18990.exe
 
-#Lista de idiomas
+#####Lista de idiomas
