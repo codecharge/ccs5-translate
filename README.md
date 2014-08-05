@@ -23,7 +23,7 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 * 5.0 Beta - 24/12/2011
 
 
-Detalhes de cada versão
+Detalhes da versão atual
 ==============
 
 Abaixo será mostrado detalhes de cada versão juntamente com uma lista de idiomas que cada versão tem. Ao lado de cada idioma da lista é informado se é original do CCS ou foi traduzida.
