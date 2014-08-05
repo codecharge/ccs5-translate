@@ -20,7 +20,7 @@ O controle de versão dos arquivos será o mesmo utilizado pelo CodeCharge Studi
 
 ###Lista de versões
 
-* 5.0 Beta - 5.0.0.14811 - 24/12/2011
+* 5.0 Beta - *5.0.0.14811* - **24/12/2011**
 
 
 Detalhes da versão atual
