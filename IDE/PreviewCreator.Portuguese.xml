@@ -1,0 +1,16 @@
+<stringTable>
+	<key name="MESSAGE_COMPONENT_NOT_FOUND_ON_ITS_POSITION">%1 componente '%2' não foi encontrado.</key>
+	<key name="MESSAGE_SCRIPT_FILE_NOT_FOUND">Arquivo de script '%1' não foi encontrado.</key>
+	<key name="MESSAGE_COMPONENT_NOT_FOUND">%1 componente '%2' não foi encontrado.</key>
+	<key name="MESSAGE_UNABLE_TO_OPEN_CONNECTION">Não foi possível abrir a conexão '%1'.</key>
+	<key name="MESSAGE_ERROR_OPEN_CONNECTION">Ocorreu um erro ao tentar abrir a conexao '%1'.</key>
+	<key name="MESSAGE_MASTER_PAGE_WAS_NOT_FOUND">A Master Page '%1' não foi encontrada para o componente '%2'.</key>
+	<key name="MESSAGE_MASTER_PAGE_WAS_NOT_FOUND_FOR_PAGE">A Master Page '%1' não foi encontrada para a página '%2'.</key>
+	<key name="MESSAGE_MASTER_PAGE_LOADING_ERROR">Ocorreu um erro ao carregar a Master Page '%1' para o componente '%2'.</key>
+	<key name="MESSAGE_MASTER_PAGE_LOADING_ERROR_FOR_PAGE">Ocorreu um erro ao carregar a Master Page '%1' para a página '%2'.</key>
+	<key name="MESSAGE_MASTER_PAGE_INVALID_PATH_PAGE_REFFERS_TO_ITSELF">Caminho inválido para Master Page. A propriedade da Master Page para '%1' '%2' relativa para a página que contém.</key>
+	<key name="MESSAGE_UNABLE_TO_RECEIVE_DATA">Não é possível receber dados para '%1' conexão :: %2.</key>
+	<key name="MESSAGE_INCLUDABLE_PAGE_WAS_NOT_FOUND">Página Includable '%1' não foi encontrado para o componente '%2'.</key>
+	<key name="MESSAGE_INCLUDABLE_PAGE_LOADING_ERROR">Ocorreu um erro ao carregar a página includable '%1' para o componente '%2'.</key>
+	<key name="MESSAGE_UNABLE_TO_CONVERT_BASE_VALUE">Não é possível converter o valor. Possível incompatibilidade de tipo.</key>
+</stringTable>
