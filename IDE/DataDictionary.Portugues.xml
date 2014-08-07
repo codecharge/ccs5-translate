@@ -1,0 +1,240 @@
+<stringTable>
+  <key name="DD_OK_BUTTON">Ok</key>
+  <key name="DD_CANCEL_BUTTON">Cancelar</key>
+  
+  <key name="DATA_DICTIONARY">Dicionário de Dados</key>
+  <key name="FORM_CAPTION">Dicionário de Dados</key>
+
+  <key name="DATA_DICTIONARY_FILE_TYPE_FILTER">Arquivos de arquitetura de Dicionário de Dados (*.xml)|*.xml</key>
+
+  <key name="MENU_FILE">&amp;Arquivo</key>
+  <key name="MENU_FILE_OPEN">&amp;Abrir</key>
+  <key name="MENU_FILE_EXIT">&amp;Sair</key>
+  <key name="MENU_FILE_SAVE">&amp;Salvar</key>
+  <key name="MENU_FILE_SAVE_AS">Salvar &amp;como...</key>
+
+  <key name="MENU_FILE_NEW">&amp;Novo</key>
+
+  <key name="MENU_INSERT">&amp;Inserir</key>
+  <key name="MENU_INSERT_ADD_TABLE">&amp;Adicionar nova tabela</key>
+  <key name="MENU_PRIMARY_KEY">&amp;É chave primária</key>
+
+  <key name="PROPERTIES_CAPTION_name">Coluna do Banco de Dados</key>
+  <key name="PROPERTIES_CAPTION_ddtype">Tipo de dados</key>
+  <key name="PROPERTIES_CAPTION_ddcaption">Título</key>
+  <key name="PROPERTIES_CAPTION_input_caption">Título</key>
+  <key name="PROPERTIES_CAPTION_display_defaultvalue">Valor padrão</key>
+  <key name="PROPERTIES_CAPTION_ddvalidationrule">Regra de validação</key>
+  <key name="PROPERTIES_DESCRIPTION_ddvalidationrule">Expressão usada para determinar uma validação de dados.</key>
+  <key name="PROPERTIES_CAPTION_ddvalidationtext">Validação de texto</key>
+  <key name="PROPERTIES_DESCRIPTION_ddvalidationtext"></key>
+  <key name="PROPERTIES_CAPTION_ddisrequired">É obrigatório</key>
+  <key name="PROPERTIES_DESCRIPTION_ddisrequired"></key>
+  <key name="PROPERTIES_CAPTION_ddunique">Unico</key>
+  <key name="PROPERTIES_DESCRIPTION_ddunique"></key>
+  <key name="PROPERTIES_CAPTION_ddinputmask">Máscara do campo</key>
+  <key name="PROPERTIES_DESCRIPTION_ddinputmask"></key>
+  <key name="PROPERTIES_CAPTION_dddisplaycontrol">Controle de Exibição</key>
+  <key name="PROPERTIES_DESCRIPTION_dddisplaycontrol">Tipo de controle</key>
+  <key name="PROPERTIES_CAPTION_ddeditcontrol">Controle de entrada</key>
+  <key name="PROPERTIES_DESCRIPTION_ddeditcontrol"></key>
+  <key name="PROPERTIES_CAPTION_ddsize">Tamanho da coluna</key>
+  <key name="PROPERTIES_DESCRIPTION_ddsize"></key>
+  <key name="PROPERTIES_CAPTION_dddescription">Título</key>
+  <key name="PROPERTIES_DESCRIPTION_dddescription"></key>
+  <key name="PROPERTIES_CAPTION_ddprimarykey">Chave</key>
+  <key name="PROPERTIES_DESCRIPTION_ddprimarykey"></key>
+  <key name="PROPERTIES_CAPTION_ddinputevents">Eventos</key>
+  <key name="PROPERTIES_DESCRIPTION_ddinputevents">Os eventos são pontos que ocorrem durante o processo de execução de código designado. É possível adicionar ações ou código personalizado que serão executados no ponto do código em que o evento ocorre.</key>
+  <key name="PROPERTIES_CAPTION_dddisplayevents">Eventos</key>
+  <key name="PROPERTIES_DESCRIPTION_dddisplayevents">Os eventos são pontos que ocorrem durante o processo de execução de código designado. É possível adicionar ações ou código personalizado que serão executados no ponto do código em que o evento ocorre.</key>
+  <key name="PROPERTIES_CAPTION_ddinputvisible">Visível</key>
+  <key name="PROPERTIES_DESCRIPTION_ddinputvisible">Especifica se o controle é visível.</key>
+  <key name="PROPERTIES_CAPTION_dddisplayvisible">Visível</key>
+  <key name="PROPERTIES_DESCRIPTION_dddisplayvisible">Especifica se o controle é visível.</key>
+  <key name="PROPERTIES_CAPTION_ddcontrolsize">Tamanho do controle</key>
+  <key name="PROPERTIES_DESCRIPTION_ddcontrolsize">Define ou recupera o tamanho do controlo.</key>
+  <key name="PROPERTIES_CAPTION_ddcontrolmaxlength">Tamanho máximo</key>
+  <key name="PROPERTIES_DESCRIPTION_ddcontrolmaxlength">Define ou recupera o número máximo de caracteres que o usuário pode inserir em um controle de texto.</key>
+
+
+  <key name="PROPERTIES_DESCRIPTION_display_defaultvalue">O valor padrão atribuído a este controle para novos registros. Por exemplo: 1, "João", Now()</key>
+  <key name="PROPERTIES_DESCRIPTION_display_format">Formato de exibição do valor de controle.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_html">HTML - Saídas de conteúdo como está, sem conversão para texto. Texto - Converte conteúdo de texto para HTML.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_dbformat">Controle do formato de dados do valor a ser utilizado em uma instruções SQL.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_hreftype">
+    Especifique o tipo de <b>Href Source</b>.
+  </key>
+  <key name="PROPERTIES_DESCRIPTION_display_hrefsource">Caminho da página, o campo do banco de dados ou expressão personalizada contendo o valor URL do hiperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_urltype">Especifique a URL que deve ser convertida para o formato diferente.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_removeparameters">Lista separada por ponto e vírgula de parâmetros é removido do hyperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_display_preserveparameters">Especificar se POST, GET ou todos os parâmetros são preservados de solicitação HTTP.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_caption"></key>
+  <key name="PROPERTIES_DESCRIPTION_input_format">Formato de exibição do valor de controle.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_defaultvalue">O valor padrão atribuído a este controle para novos registros. Por exemplo: 1, "João", Now()</key>
+  <key name="PROPERTIES_DESCRIPTION_input_required">Especifica se o valor do campo é obrigatório.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_unique">Especifica se o valor não é aceito se já existe no banco de dados.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_inputmask">Expressão regular para validar a entrada de dados.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_validationrule">Expressão usada para determinar a validação de dados.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_validationtext">Mensagem exibida quando os dados não satisfazem a regra da validação.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_dbformat">Controle do formato de dados do valor a ser utilizado em uma instruções SQL.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_datasource">Selecione um dos nomes de conexão do banco de dados do projeto.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_boundcolumn">Nome do campo da fonte de dados que contém o valor a ser apresentado.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_textcolumn">Nome do campo da fonte de dados que contém o valor a ser exibido.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_checkedvalue">O valor quando caixa de seleção está marcada.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_uncheckedvalue">O valor quando caixa de seleção está desmarcada.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_html">HTML - Saídas de conteúdo como está, sem conversão para texto. Texto - Converte conteúdo de texto para HTML.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_hreftype">
+    Especifique o tipo de <b>Href Source</b>.
+  </key>
+  <key name="PROPERTIES_DESCRIPTION_input_hrefsource">Caminho da página, o campo do banco de dados ou expressão personalizada contendo o valor URL do hiperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_urltype">Especifique a URL que deve ser convertida para o formato diferente.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_removeparameters">Lista separada por ponto e vírgula de parâmetros é removido do hyperlink.</key>
+  <key name="PROPERTIES_DESCRIPTION_input_preserveparameters">Especificar se POST, GET ou todos os parâmetros são preservados de solicitação HTTP.</key>
+
+
+  <key name="NO_SELECTED_CONNECTION">Sem conexões</key>
+
+
+  <key name="TABLE_PROPERTIES_TAB_CAPTION">Tabela</key>
+  <key name="GENERAL_PROPERTIES_TAB_CAPTION">Geral</key>
+  <key name="DISPLAY_PROPERTIES_TAB_CAPTION">Exibir</key>
+  <key name="INPUT_PROPERTIES_TAB_CAPTION">Entrada</key>
+  <key name="EVENT_PROPERTIES_TAB_CAPTION">Evento</key>
+
+  <key name="DISPLAY_TABLE_CAPTION">Título do Formulário (Exibir)</key>
+  <key name="INPUT_TABLE_CAPTION">Título do Formulário (Entrada)</key>
+
+  <key name="PROPERTIES_CAPTION_grid_caption">Título do Formulário (Exibir)</key>
+  <key name="PROPERTIES_CAPTION_record_caption">Título do Formulário (Entrada)</key>
+  <key name="PROPERTIES_CAPTION_ddcustominsert">Customizar Insert</key>
+  <key name="PROPERTIES_CAPTION_ddcustomdelete">Customizar Delete</key>
+  <key name="PROPERTIES_CAPTION_ddcustomupdate">Customizar Update</key>
+  <key name="PROPERTIES_CAPTION_ddtableevents_grid">Eventos da Grid</key>
+  <key name="PROPERTIES_CAPTION_ddtableevents_report">Eventos do Relatório</key>
+  <key name="PROPERTIES_CAPTION_ddtableevents_record">Eventos do Formulário de Cadastro</key>
+
+  <key name="TABLE_DEFAULT_CAPTION">Tabela%1</key>
+  <key name="FIELD_DEFAULT_NAME">Campos%1</key>
+  <key name="QUERY_DEFAULT_CAPTION">Consulta%1</key>
+  <key name="FIELD_COUNTER">ID</key>
+
+
+  <key name="BASE_WAS_NOT_SAVED">Dados no arquivo atual foram alterados. Você deseja salvar as alterações?</key>
+  <key name="BASE_WAS_NOT_SAVED_CAPTION">Dicionário de Dados</key>
+  <key name="MENU_TREE_ADD_ENTRY">&amp;Adicionar nova tabela</key>
+  <key name="MENU_TREE_REMOVE_TABLE">&amp;Remover</key>
+  <key name="MENU_TREE_OPEN">&amp;Abrir</key>
+  <key name="MENU_TREE_RENAME">&amp;Renomear</key>
+  <key name="MENU_TREE_PROPERTIES">&amp;Propriedades</key>
+  <key name="MENU_TREE_RENAME_ROOT">&amp;Renomear</key>
+  <key name="MENU_TREE_ROOT_PROPERTIES">&amp;Propriedades</key>
+  <key name="MENU_TREE_OPEN_QUERY">&amp;Abrir</key>
+  <key name="MENU_TREE_RENAME_QUERY">&amp;Renomear</key>
+  <key name="MENU_TREE_DELETE_QUERY">&amp;Excluir</key>
+  <key name="MENU_TREE_ADD_QUERY">&amp;Criar consulta</key>
+  <key name="MENU_RESET_DATA_DICTIONARY">Reiniciar o dicionário de dados para '{0}'</key>
+  <key name="MENU_REMOVE_FIELD">Remover campo</key>
+  <key name="MENU_IS_PRIMARY_KEY">É Chave Primária</key>
+  <key name="MENU_APPLY_DATASOURCE">Aplicar a DataSource</key>
+       
+  <key name="DATA_SCHEME_FORM_CAPTION">Relacionamentos</key>
+  <key name="VQB_CONTAINER_FORM_CAPTION">VQB</key>
+  <key name="LEFT_TABLE">Tabelas</key>
+  <key name="RIGHT_LINKED_TABLE">Tabelas vinculadas</key>
+  <key name="RELATIONSHIPS_HIDE_TABLE">Ocultar Tabela</key>
+  <key name="RELATIONSHIPS_HIDE_TABLES">Ocultar Tabelas</key>
+
+  <key name="ALERT_CAPTION">Erro</key>
+  <key name="ALERT_QUERY_EXIST_CAPTION">Consulta existe</key>
+  <key name="ALERT_EMPTY_LABEL">Formato inválido para o nome da consulta.&#10;Ele pode conter apenas caracteres alfanuméricos e sublinhados&#10;e só pode começar com uma letra.</key>
+  <key name="ALERT_NAME_EXISTS">Nome espefificado já existe.</key>
+  <key name="ALERT_INVALID_NAME">Formato inválido para o nome da consulta.&#10;Ele pode conter apenas caracteres alfanuméricos e sublinhados&#10;e só pode começar com uma letra.</key>
+
+  <key name="ALERT_PREVIOUS_ENTRY_NAME_WAS_NOT_SET">Nome do campo não foi espefificada para entrada anterior.</key>
+  <key name="ALERT_WOULD_YOU_LIKE_TO_REMOVE_DD_FILE_TOO">Você quer remover o arquivo do Dicionário de Dados para '%1' conexão?</key>
+  <key name="ALERT_REMOVING_CONFIRMATION">Dicionário de Dados</key>
+  <key name="ALERT_INVALID_DD_FILE">Erro ao carregar o arquivo '%1': Arquivo do Dicionário de Dados inválido.</key>
+  <key name="ALERT_INVALID_DD_FILE_CAPTION">Erro no Dicionário de Dados</key>
+  <key name="ALERT_FAILED_TO_USE_DD_FILE_DD_BACKUP">Falha ao usar arquivo de DD existente. É feito um backup para: '%1'</key>
+  <key name="ALERT_FAILED_TO_USE_DD_FILE_DD_BACKUP_CAPTION">Dicionário de Dados</key>
+
+  <key name="ALERT_WOULD_YOU_LIKE_TO_SAVE_DD_FILE_BEFORE_CLOSING">Você quer salvar o arquivo '%1' antes de fechar?</key>
+  <key name="ALERT_CLOSING_CONFIRMATION">Dicionário de Dados</key> 
+  <key name="SEARCH_CAPTION_NAME">nome</key>
+
+  <key name="ALERT_MOVE_DD_XML_MSG">Mover o DataDictionary para um novo arquivo? &#10;&#10;Aquivo antigo: {0}&#10;&#10;Novo arquivo: {1}</key>
+  <key name="ALERT_OVERWRITE_DD_XML_MSG">Arquivo de destino já existe. Você quer substituir existir arquivo?</key>
+  <key name="ALERT_USE_EXIST_FILE_MSG">O arquivo já existe. Tentar usar o arquivo existente?</key>
+  
+
+  <key name="GROUP_CAPTION_TABLE">Tabelas</key>
+  <key name="GROUP_CAPTION_VIEW">Visões</key>
+  <key name="GROUP_CAPTION_SYSTEM">Tabelas de sistema</key>
+  <key name="GROUP_CAPTION_SYSTEM_TABLE">Tabelas de sistema</key>
+  <key name="GROUP_CAPTION_SYSTEM_VIEW">Visões de sistema</key>
+  <key name="GROUP_CAPTION_QUERY">Consultas</key>
+
+  <key name="TAB_CAPTION_VQB">Projeto</key>
+  <key name="TAB_CAPTION_DATA_DICTIONARY">Dicionário</key>
+  <key name="TAB_CAPTION_SQL">SQL</key>
+  <key name="TAB_CAPTION_DATA">Ver dados</key>
+
+  <key name="OPEN_PAGE_FILE_DLG_CAPTION">Selecione página</key>
+  <key name="ALERT_INVALID_FILE_WAS_SELECTED">O arquivo '%1' não está localizado na pasta do projeto.</key>
+  <key name="ALERT_INVALID_FILE_WAS_SELECTED_CAPTION">Arquivo de página inválida</key>
+  <key name="OPEN_PAGE_FILE_MASK">Página do CodeCharge (*.ccp)|*.ccp||</key>
+
+  <key name="CLIENT_NODE_CAPTION">Cliente</key>
+  <key name="SERVER_NODE_CAPTION">Servidor</key>
+  <key name="INPUT_CONTROL_NODE_CAPTION">Entrada: %1</key>
+  <key name="DISPLAY_CONTROL_NODE_CAPTION">Exibir: %1</key>
+
+  <key name="CM_ADD_ACTION">Adicionar ação</key>
+  <key name="CM_REMOVE_ACTION">Remover ação</key>
+
+  <key name="(not assigned)"> </key>
+  <key name="(assigned)">(atribuído)</key>
+
+  <key name="EVENTS_CONFIG_DIALOG_ddinputevents_caption">%1 - Eventos de controle de entrada</key>
+  <key name="EVENTS_CONFIG_DIALOG_dddisplayevents_caption">%1 - Eventos de controle de exibição</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_caption">Tabela de Eventos</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_grid_caption">Grid - Formulário de controle de Eventos</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_record_caption">Cadastro - Formulário de controle de Eventos</key>
+  <key name="EVENTS_CONFIG_DIALOG_ddtableevents_report_caption">Relatório - Formulário de controle de Eventos</key>
+  <key name="REPORT_CONTROL_THERE_ARE_NO_ITEMS_TO_SHOW">Não há itens a serem mostrados.</key>
+  <key name="REPORT_CONTROL_LOADING">Carregando itens...</key>
+  <key name="EVENTS_CONFIG_DIALOG_HELP_BUTTON">&amp;Ajuda</key>
+  <key name="EVENTS_CONFIG_DIALOG_OK_BUTTON">&amp;Ok</key>
+  <key name="EVENTS_CONFIG_DIALOG_CANCEL_BUTTON">&amp;Cancelar</key>
+  <key name="EVENTS_CONFIG_DIALOG_CLEAN_ACTIONS_LIST_QUESTION">Controle contém ações ocultas. Você gostaria de removê-los?</key>
+  <key name="EVENTS_CONFIG_DIALOG_CLEAN_ACTIONS_LIST_CAPTION">Limpar ações da lista de Confirmações</key>
+
+  <key name="EVENTS_TOOLBAR_ADD_ACTION">Adicionar...</key>
+  <key name="EVENTS_TOOLBAR_DELETE_ACTION">Excluir</key>
+  <key name="EVENTS_TOOLBAR_MOVE_UP_ACTION">Mover para cima</key>
+  <key name="EVENTS_TOOLBAR_MOVE_DOWN_ACTION">Mover para baixo</key>
+  <key name="EVENTS_TOOLBAR_ADD_ACTION_DESCRIPTION">Adicionar...</key>
+  <key name="EVENTS_TOOLBAR_DELETE_ACTION_DESCRIPTION">Excluir</key>
+  <key name="EVENTS_TOOLBAR_MOVE_UP_ACTION_DESCRIPTION">Mover para cima</key>
+  <key name="EVENTS_TOOLBAR_MOVE_DOWN_ACTION_DESCRIPTION">Mover para baixo</key>
+
+  <key name="MERGE_DIALOG_CAPTION">Mesclar tabelas</key>
+  <key name="MERGE_OLD_PANEL_CAPTION">Tabela antiga</key>
+  <key name="MERGE_NEW_PANEL_CAPTION">Nova tabela</key>
+  <key name="MERGE_INSTRUCTION">Selecione a tabela antiga da lista no lado direito e nova tabela no lado esquerdo e pressione o botão Associar.</key>
+  <key name="MERGE_ASSOCIATE_BUTTON">Associar</key>
+  <key name="MERGE_RESET_BUTTON">Reiniciar</key>
+  <key name="MERGE_OK_BUTTON">Ok</key>
+
+  <key name="TABLE_PROPERTIES_CAPTION">Propriedades da tabela</key>
+  <key name="FIELD_PROPERTIES_CAPTION">Propriedades das colunas</key>
+
+  <key name="PROPERTIES_CAPTION_IN_GRID_input_caption">Entrada de título</key>
+  <key name="PROPERTIES_CAPTION_IN_GRID_dddescription">Mostrar título</key>
+  <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolsize">Entrada do tamanho do HTML</key>
+  <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolmaxlength">Entrada do tamanho máximo</key>
+
+  <key name="DIALOG_ADD_QUERY_CAPTION">Criar consulta</key>
+
+</stringTable>
